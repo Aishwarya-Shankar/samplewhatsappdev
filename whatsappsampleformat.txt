@@ -7,3 +7,4 @@ Profile page code
 chat screen code
 Last seen code
 Attachments (Image,video,doc)
+Hiding the last seen
